@@ -220,6 +220,8 @@
 // Keep the code extensible to allow multiple parking lots. You can assume that the input/output format can be changed for that.
 // Keep the system thread-safe to allow concurrent requests.
 
+// Submission
+// Try to solve it within 1.5 hours.
 
 #include<bits/stdc++.h>
 using namespace std;
